@@ -1,0 +1,3 @@
+From/IN the/DT AP/NNP comes/VBZ this/DT story/NN :/:
+President/NNP Bush/NNP on/IN Tuesday/NNP nominated/VBD two/CD individuals/NNS to/TO replace/VB retiring/VBG jurists/NNS on/IN federal/JJ courts/NNS in/IN the/DT Washington/NNP area/NN ./.
+Bush/NNP nominated/VBD Jennifer/NNP M./NNP Anderson/NNP for/IN a/DT 15/CD -/HYPH year/NN term/NN as/IN associate/JJ judge/NN of/IN the/DT Superior/NNP Court/NNP of/IN the/DT District/NNP of/IN Columbia/NNP ,/, replacing/VBG Steffen/NNP W./NNP Graae/NNP ./.
